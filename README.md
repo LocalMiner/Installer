@@ -7,7 +7,12 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 [<img alt="windows" width="120px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/LocalMiner/Installer/releases/download/1.0/LocalMiner.Setup.1.0.0.exe)
 
 <hr>
-![image](https://user-images.githubusercontent.com/65026164/163547749-a97c88cf-be32-47e3-bcef-d67c598d4779.png)
+
+## LocalMiner ScreenShots
+
+[<img alt="windows" width="70%" style="border-radius:15px;" src="https://user-images.githubusercontent.com/65026164/163547982-08b47a94-c4e8-4394-abfa-859c1739501b.png" />](#)
+
+©️Copyright 2022 ~ Healer-op
 
 
 
