@@ -24,7 +24,7 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 - [ ] Gif Api
 - [ ] Unzipper
 - [ ] Download Notification
-- [ ] Run Server Form Installer
+- [ ] Run Server From Installer
 - [ ] One Click Spigot Plugin Installer
 - [ ] Discord Rpc (Join Server)
 - [ ] Realse A Verion For MacOS
