@@ -14,6 +14,8 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
 [<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/163714655-83edae98-70e8-40b0-aec1-0894c39e444c.png" />](#)
 
+[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/164644494-0f8c8c73-8cb4-4abe-85cc-ee8747be04c3.png" />](#)
+
 
 
 ### TodoList
@@ -21,14 +23,14 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 - [x] Discord Rpc
 - [x] Ejs Template
 - [x] News Section
-- [ ] Gif Api
+- [x] News Api
 - [ ] Unzipper
-- [ ] Download Notification
+- [x] Download Notification
 - [ ] Run Server From Installer
 - [ ] One Click Spigot Plugin Installer
 - [ ] Discord Rpc (Join Server)
 - [ ] Realse A Verion For MacOS
-- [ ] AutoUpdater
+- [x] AutoUpdater
 
 
 ©️Copyright 2022 ~ Healer-op
