@@ -4,7 +4,7 @@ LocalMiner Dont Need Port Forwarding And Other Vpn Stuffs , Local Miner Help Pla
 To Host Minecraft Server On His/Her Local Machine And Play With Friends
 <hr>
 
-[<img alt="windows" width="120px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/healer-op/LocalMiner-Updater/releases/download/1.0/LocalMiner.Setup.1.0.0.zip)
+[<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/healer-op/LocalMiner-Updater/releases/download/1.0/LocalMiner.Setup.1.0.0.zip)
 
 <hr>
 
