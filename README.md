@@ -10,7 +10,8 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
 ## LocalMiner ScreenShots
 
-[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/163547982-08b47a94-c4e8-4394-abfa-859c1739501b.png" />](#)
+
+[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/164892031-761b6205-3071-4cae-9a9f-23d36e36a67f.png" />](#)
 
 [<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/163714655-83edae98-70e8-40b0-aec1-0894c39e444c.png" />](#)
 
@@ -24,6 +25,8 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 - [x] Ejs Template
 - [x] News Section
 - [x] News Api
+- [x] Day And Night Theme Api
+- [ ] Offline Warning
 - [ ] Unzipper
 - [x] Download Notification
 - [ ] Run Server From Installer
