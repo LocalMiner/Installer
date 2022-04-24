@@ -1,4 +1,8 @@
-# LocalMiner Installer
+
+[<img alt="windows" width="70%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://user-images.githubusercontent.com/65026164/164964523-42d8ddf8-e1c8-4ee0-b5a0-87f0ed9f233c.png" />](#)
+
+
+
 LocalMiner Is For New Minecraft Players Who Wants to Play Minecraft With Friends Online , \
 LocalMiner Dont Need Port Forwarding And Other Vpn Stuffs , Local Miner Help Player (Host) \
 To Host Minecraft Server On His/Her Local Machine And Play With Friends
