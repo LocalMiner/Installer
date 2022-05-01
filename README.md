@@ -11,7 +11,6 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
 [<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/healer-op/LocalMiner-Updater/releases/download/1.0/Setup.zip)
 
-[<img alt="windows" width="10%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://img.shields.io/github/downloads/healer-op/LocalMiner-Updater/total?label=INSTALLS&style=for-the-badge" />](https://github.com/healer-op/LocalMiner-Updater/releases/download/1.0/Setup.zip)
 
 <hr>
 
