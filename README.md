@@ -32,13 +32,8 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 - [x] News Section
 - [x] News Api
 - [x] Day And Night Theme Api
-- [ ] Offline Warning
-- [ ] Unzipper
 - [x] Download Notification
-- [ ] Run Server From Installer
-- [ ] One Click Spigot Plugin Installer
-- [ ] Discord Rpc (Join Server)
-- [ ] Realse A Verion For MacOS
+- [x] Run Server From Installer
 - [x] AutoUpdater
 
 
