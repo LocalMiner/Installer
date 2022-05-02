@@ -22,11 +22,11 @@ https://github.com/LocalMiner/Installer/issues
 
 [<img alt="windows" width="100%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://user-images.githubusercontent.com/65026164/166180547-608f5e2d-79a9-4da7-9ca3-89d0223692e0.png" />](#)
 
-#### Can I Can World File
+#### Can I Change World File
 Sure LocalMiner Host All Files On Your LocalComputer and Gives You 100% \
 Access To All Server Files. You Can Change Plugins , Server Jar , etc.
 
-#### How Can I Support This Porject
+#### How Can I Support to This Porject
 You Can Support The Project By Give A Star To This Project. This Help Us \
 Stay Motivated And Help To Keep Track Down Project Performance.
 
