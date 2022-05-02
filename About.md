@@ -1,6 +1,33 @@
-okay i will edit this soon
 
-till then make sure u have
-https://adoptium.net/download/
+[<img alt="windows" width="100%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://user-images.githubusercontent.com/65026164/166179402-913baf05-3ed0-47f6-8af9-e176a831c543.png" />](#)
 
-https://dashboard.ngrok.com/get-started/your-authtoken
+LocalMiner is a Tool That Helps New Minecraft Players Host Minecraft Server \
+Locally On Thier System Without Any Port Forwarding , VPN or Hamachi. \
+LocalMiner Curently Supports The Latest Minecraft Version 1.18.2 
+
+[<img alt="windows" width="100%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://user-images.githubusercontent.com/65026164/166179670-b16b842f-1040-4201-b499-2d0e6c113aa5.png" />](#)
+
+#### To Avoid Any Error Make Sure You Have Installed Java 17Jdk 
+https://adoptium.net/ 
+
+#### And You Can Get Your Ngrok Auth Token From 
+https://dashboard.ngrok.com/get-started/your-authtoken 
+
+#### If You Are Getting Any Other Error Please Make Open A Issue 
+https://github.com/LocalMiner/Installer/issues
+
+[<img alt="windows" width="100%" style="border-radius: 25px; margin-left:auto; margin-right:auto;" src="https://user-images.githubusercontent.com/65026164/166180547-608f5e2d-79a9-4da7-9ca3-89d0223692e0.png" />](#)
+
+#### Can I Can World File
+Sure LocalMiner Host All Files On Your LocalComputer and Gives You 100% \
+Access To All Server Files. You Can Change Plugins , Server Jar , etc.
+
+#### How Can I Support This Porject
+You Can Support The Project By Give A Star To This Project. This Help Us \
+Stay Motivated And Help To Keep Track Down Project Performance.
+
+#### I Change My Server Version its Not Working
+Make Sure Your Jar File Name is "server.jar" (Case Senstive) \
+Also Make Sure if you using Verion Below 1.17 You need to Downgrade Your Java Verion To.
+
+
