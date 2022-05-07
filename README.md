@@ -44,6 +44,11 @@ https://youtu.be/B7L4Ny9hOtA
 - [x] Download Notification
 - [x] Run Server From Installer
 - [x] AutoUpdater
+- [x] All Minecraft Verisons
+- [x] Faster PaperMc Api
+- [ ] Spiget Plugin Api
+- [x] Run Server From Any Folder
+- [x] Headless Jdk 
 
 
 ©️Copyright 2022 ~ Healer-op \
