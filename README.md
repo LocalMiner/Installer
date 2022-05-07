@@ -14,6 +14,12 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
 <hr>
 
+## Whats New
+1. All Minecraft Version Now Supported
+2. Access Jar File From AnyWhere
+3. Faster PaperApi
+4. New Ui
+
 ## LocalMiner ScreenShots
 
 
