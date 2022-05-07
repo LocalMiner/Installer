@@ -24,14 +24,11 @@ https://github.com/LocalMiner/Installer/issues
 
 #### Can I Change World File
 Sure LocalMiner Host All Files On Your LocalComputer and Gives You 100% \
-Access To All Server Files. You Can Change Plugins , Server Jar , etc.
+Access To All Server Files. You Can Change Plugins , Server Jar , etc. \
+Location to All Files `C:\LocalMiner\Server`
 
 #### How Can I Support to This Porject
 You Can Support The Project By Give A Star To This Project. This Help Us \
 Stay Motivated And Help To Keep Track Down Project Performance.
-
-#### I Change My Server Version its Not Working
-Make Sure Your Jar File Name is "server.jar" (Case Senstive) \
-Also Make Sure if you using Verion Below 1.17 You need to Downgrade Your Java Verion To.
 
 
