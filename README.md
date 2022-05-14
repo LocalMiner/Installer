@@ -10,7 +10,7 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 [<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/167571714-3b3f9854-5d71-4447-9599-015874d91563.png" />](https://www.buymeacoffee.com/localminer)
 
 ## Setup Tutorial
-https://youtu.be/B7L4Ny9hOtA
+https://www.youtube.com/watch?v=IoPvrhMFiP0 (thank you Divayam Jain)
 
 ## Support Server
 https://github.com/LocalMiner/Installer/blob/main/discord.md
