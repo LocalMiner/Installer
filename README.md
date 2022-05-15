@@ -7,17 +7,25 @@ LocalMiner Is For New Minecraft Players Who Wants to Play Minecraft With Friends
 LocalMiner Dont Need Port Forwarding And Other Vpn Stuffs , Local Miner Help Player (Host) \
 To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
+## Support LocalMiner
 [<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/167571714-3b3f9854-5d71-4447-9599-015874d91563.png" />](https://www.buymeacoffee.com/localminer)
 
 ## Setup Tutorial
-https://www.youtube.com/watch?v=IoPvrhMFiP0 (thank you Divayam Jain)
+[<img alt="yttut" width="220px" src="https://user-images.githubusercontent.com/65026164/168454669-1cd2aec2-aae1-4a8d-9b70-4f3e57addb9e.png" />](
+https://www.youtube.com/watch?v=IoPvrhMFiP0)<br>
+(thank you Divayam Jain)
 
 ## Support Server
-https://github.com/LocalMiner/Installer/blob/main/discord.md
+[<img alt="discord" width="220px" src="https://user-images.githubusercontent.com/65026164/168454644-5a7b7d5a-a6d4-44a8-a6ee-6154f1872461.png" />](
+https://github.com/LocalMiner/Installer/blob/main/discord.md)
 
+
+## Download Links
 <hr>
 
-[<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/LocalMiner/Installer/releases/download/1.04.3/LocalMinerSetup.zip)
+[<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/LocalMiner/Installer/releases/download/1.04.3/LocalMinerSetup.zip)<br>
+
+Linux Build Soon
 <br>
 
 
