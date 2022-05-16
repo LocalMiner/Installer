@@ -24,7 +24,7 @@ https://github.com/LocalMiner/Installer/blob/main/discord.md)
 <hr>
 
 [<img alt="windows" width="220px" src="https://user-images.githubusercontent.com/65026164/163546829-c5986c4f-ad61-4b51-9c5a-1254f8591313.png" />](https://github.com/LocalMiner/Installer/releases/download/1.04.3/LocalMinerSetup.zip)<br>
-
+(downloading our application means you have accepted LocalMiner Policy and Minecraft Eula Terms)
 Linux Build Soon
 <br>
 
