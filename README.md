@@ -33,39 +33,6 @@ Linux Build Soon
 
 <hr>
 
-## Whats New
-1. All Minecraft Version Now Supported
-2. Access Jar File From AnyWhere
-3. Faster PaperApi
-4. New Ui
-
-## LocalMiner ScreenShots
-
-
-[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/164892031-761b6205-3071-4cae-9a9f-23d36e36a67f.png" />](#)
-
-[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/163714655-83edae98-70e8-40b0-aec1-0894c39e444c.png" />](#)
-
-[<img alt="windows" width="70%" style="border-radius: 25px;" src="https://user-images.githubusercontent.com/65026164/164644494-0f8c8c73-8cb4-4abe-85cc-ee8747be04c3.png" />](#)
-
-
-
-### TodoList
-
-- [x] Discord Rpc
-- [x] Ejs Template
-- [x] News Section
-- [x] News Api
-- [x] Day And Night Theme Api
-- [x] Download Notification
-- [x] Run Server From Installer
-- [x] AutoUpdater
-- [x] All Minecraft Verisons
-- [x] Faster PaperMc Api
-- [ ] Spiget Plugin Api
-- [x] Run Server From Any Folder
-- [x] Headless Jdk 
-
 
 ©️Copyright 2022 ~ Healer-op \
 
