@@ -15,6 +15,7 @@ LocalMiner Curently Supports The Latest Minecraft Version 1.18.2
 #### To Avoid Any Error Make Sure You Have Installed Java 21Jdk , Java Installed
 ⚠️[JdkFixer](https://cdn.localm.eu.org/api/JdkFixer.bat) run as adminstrator \
 (press ctrl+s and save as .bat file) \
+⚠️[Jdk 21](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) Still Recommending you to download Jdk21 if error occurs after JdkFixer
 https://www.java.com/download/ie_manual.jsp
 
 #### And You Can Get Your Ngrok Auth Token From 
