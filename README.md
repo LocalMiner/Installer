@@ -15,8 +15,8 @@ To Host Minecraft Server On His/Her Local Machine And Play With Friends
 
 ## Setup Tutorial
 [<img alt="yttut" width="220px" src="https://user-images.githubusercontent.com/65026164/168454669-1cd2aec2-aae1-4a8d-9b70-4f3e57addb9e.png" />](
-https://www.youtube.com/watch?v=IoPvrhMFiP0)<br>
-(thank you Divayam Jain)
+https://www.youtube.com/watch?v=8iOWXT_AUj0)<br>
+(thank you Exposuree)
 
 ## Support Server
 [<img alt="discord" width="220px" src="https://user-images.githubusercontent.com/65026164/168454644-5a7b7d5a-a6d4-44a8-a6ee-6154f1872461.png" />](
