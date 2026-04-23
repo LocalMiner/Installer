@@ -11,7 +11,7 @@ LOCALM is a streamlined, peer-to-peer networking app designed to let you host an
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8718e374-0b10-45c5-af19-1a862fbab2d5" alt="SECURITY - Best Privacy & Security Compliance" width="100%">
+  <img src="https://github.com/user-attachments/assets/d74bf92d-1618-4edc-a0f9-add2b1963bf1" alt="SECURITY - Best Privacy & Security Compliance" width="100%">
 </div>
 
 ## 🛡️ Security First
